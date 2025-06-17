@@ -13,13 +13,6 @@ The goal of this project was to build a structured and semantic HTML page that r
 - Contact form with email functionality
 - Footer with links to GitHub and LinkedIn
 
-## 📁 Folder Structure
-Module_04_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF02/
-│
-├── images/
-│ └── cat-project.jpg
-│
-└── index.html
 
 ## 🛠️ Technologies Used
 
@@ -32,7 +25,8 @@ Module_04_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF02/
 
 > *(Optional)*  
 > If hosted on GitHub Pages, include your live link here:  
-> [View Portfolio](https://yourusername.github.io/repository-name/)
+> [View Portfolio](https://aphiwo-kuhle.github.io/Module_04_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF02/)
+
 
 ## 📷 Screenshots
 
