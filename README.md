@@ -30,7 +30,7 @@ The goal of this project was to build a structured and semantic HTML page that r
 
 ## 📷 Screenshots
 
-![Screenshot of Project](images/cat-project.jpg)
+![Screenshot of Project](images/cat-codespace.png)
 
 ## 📬 Contact
 
